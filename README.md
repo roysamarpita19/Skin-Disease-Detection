@@ -30,7 +30,7 @@ Skin-Disease-Detection/
 │ │ └── index.html
 │ └── static/
 │ ├── style.css
-│ ├── main.js
+│ ├── script.js
 │ └── Images/
 │
 ├── requirements.txt
